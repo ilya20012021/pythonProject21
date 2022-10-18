@@ -1,0 +1,7 @@
+,Operator,Symbol
+0,Scope resolution operator,::
+1,Conditional operator,?:
+2,dot operator,.
+3,Member selection operator,.*
+4,"""sizeof"" operator",sizeof
+5,"""typeid"" operator",typeid
